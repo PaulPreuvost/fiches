@@ -1,4 +1,4 @@
-# 2- Module AI-900T00A : Introduction au Machine Learning
+# 2 - Module AI-900T00A : Introduction au Machine Learning
 ---
 ### 1. Qu’est-ce que le Machine Learning ?
 #### Définition :

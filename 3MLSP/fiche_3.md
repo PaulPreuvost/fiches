@@ -1,4 +1,4 @@
-# 3- Module AI-900T00A : Introduction à la Vision par Ordinateur (Computer Vision)
+# 3 - Module AI-900T00A : Introduction à la Vision par Ordinateur (Computer Vision)
 
 ---
 ### 1. Qu’est-ce que la Vision par Ordinateur ?

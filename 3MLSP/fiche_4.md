@@ -1,4 +1,4 @@
-# 4- Module AI-900T00A : Introduction au Traitement du Langage Naturel (NLP)
+# 4 - Module AI-900T00A : Introduction au Traitement du Langage Naturel (NLP)
 
 ---
 1. Qu’est-ce que le Traitement du Langage Naturel ?
