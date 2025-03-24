@@ -1,5 +1,6 @@
 ## Module AI-900T00A : Introduction à l’Intelligence Artificielle
 
+---
 ### 1. Qu’est-ce que l’Intelligence Artificielle (IA) ?
 #### Définition : 
 
@@ -12,7 +13,7 @@ L’Intelligence Artificielle désigne des logiciels capables d’imiter des cap
 - Comprendre et dialoguer en langage naturel
 - Extraire des connaissances à partir de différentes sources
 
-
+---
 ### 2. Principales Charges de Travail en IA
 
 - Vision par ordinateur : Reconnaissance d’images, détection d’objets, analyse vidéo
@@ -21,7 +22,7 @@ L’Intelligence Artificielle désigne des logiciels capables d’imiter des cap
 - Systèmes de recommandations : Propositions personnalisées
 - Détection d’anomalies : Identification d’événements inhabituels dans les données
 
-
+---
 ### 3. Principes d’une IA Responsable
 
 - Équité : Éviter les biais et assurer l’inclusion
@@ -30,7 +31,7 @@ L’Intelligence Artificielle désigne des logiciels capables d’imiter des cap
 - Transparence : Expliquer comment les décisions sont prises
 - Responsabilité : Attribution claire des responsabilités humaines
 
-
+---
 ### 4. L’IA dans Microsoft Azure
 #### Bases d’Azure
 
@@ -38,6 +39,7 @@ L’Intelligence Artificielle désigne des logiciels capables d’imiter des cap
 - Services de calcul et de stockage
 - Groupe de ressources pour gérer les services liés
 
+---
 #### Services d’IA disponibles
 
 - Cognitive Services : Ensemble d’API prêtes à l’emploi (vision, langage, audio…)
@@ -46,7 +48,7 @@ L’Intelligence Artificielle désigne des logiciels capables d’imiter des cap
     - Ressource générale pour plusieurs services
     - Utilisation via une clé d’authentification et une URL REST
 
-
+---
 ### 5. Cas Pratiques & Ateliers
 
 #### Lab – Anomaly Detector :
@@ -55,7 +57,7 @@ L’Intelligence Artificielle désigne des logiciels capables d’imiter des cap
 - Réalisable via Azure avec un abonnement fourni
 
 
-
+---
 ### 6. Quiz de Révision
 
 * Prévision des ventes de glaces → Azure Machine Learning
@@ -63,7 +65,7 @@ L’Intelligence Artificielle désigne des logiciels capables d’imiter des cap
 * App vocale pour personnes malvoyantes → Principe d’inclusivité de l’IA responsable
 
 
-
+---
 ### 7. Références & Ressources
 
 * Démarrer avec l’IA sur Azure : https://aka.ms/learn-azure-ai
