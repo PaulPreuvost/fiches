@@ -1,4 +1,4 @@
-## Module AI-900T00A : Introduction à l’Intelligence Artificielle
+## 1- Module AI-900T00A : Introduction à l’Intelligence Artificielle
 
 ---
 ### 1. Qu’est-ce que l’Intelligence Artificielle (IA) ?
