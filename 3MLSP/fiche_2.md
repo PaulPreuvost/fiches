@@ -89,3 +89,5 @@ Lab – Azure Automated Machine Learning :
 ### 7. Références & Ressources
 
     Outils visuels pour le ML : https://aka.ms/intro-visual-ml
+
+https://learn.microsoft.com/fr-fr/training/paths/get-started-with-artificial-intelligence-on-azure/
