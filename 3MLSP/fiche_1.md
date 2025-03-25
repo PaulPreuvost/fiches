@@ -71,4 +71,4 @@ L’Intelligence Artificielle désigne des logiciels capables d’imiter des cap
 * Démarrer avec l’IA sur Azure : https://aka.ms/learn-azure-ai
 * Découverte de l’Anomaly Detector : https://aka.ms/anomaly-detector-intro
 * Introduction à Azure Cognitive Search : https://aka.ms/azure-search-intro
-* Infographie sur les APIs Azure : https://aka.ms/api-infographic
+* Infographie sur les APIs Azure : https://aka.ms/api-infographic / https://github.com/MicrosoftLearning/AI-900-AIFundamentals/blob/main/instructions/infographics/ai900_how_auzre_api_works.pdf
