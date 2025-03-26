@@ -100,3 +100,10 @@ Liste des principaux services Azure abordés durant la formation, avec une court
 - 🔗 [Text Analytics Lab](https://aka.ms/ai900-text-lab)
 - 🔗 [Computer Vision Lab](https://aka.ms/ai900-computer-vision-lab)
 
+
+QCM : 
+https://quizlet.com/fr/1023174056/fondamentaux-de-lia-sur-azure-flash-cards/?i=6hgfn6&x=1jqt
+https://quizlet.com/fr-fr/fiches-de-memorisation/introduction-a-lintelligence-artificielle-et-azure-1023176091
+https://quizlet.com/fr/1023176617/introduction-au-machine-learning-et-azure-flash-cards/?i=6hgfn6&x=1jqt
+https://quizlet.com/fr-fr/fiches-de-memorisation/introduction-a-la-vision-par-ordinateur-avec-azure-1023176957
+https://quizlet.com/fr-fr/fiches-de-memorisation/introduction-au-traitement-du-langage-naturel-et-ia-1023177632
